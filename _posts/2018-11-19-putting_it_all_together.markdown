@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Putting It All Together..."
-date:       2018-11-19 17:02:12 +0000
+date:       2018-11-19 12:02:13 -0500
 permalink:  putting_it_all_together
 ---
 
