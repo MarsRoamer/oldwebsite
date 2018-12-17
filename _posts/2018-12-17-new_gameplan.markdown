@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "New Gameplan"
-date:       2018-12-17 22:59:34 +0000
+date:       2018-12-17 17:59:35 -0500
 permalink:  new_gameplan
 ---
 
